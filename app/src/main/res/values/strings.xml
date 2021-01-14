@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">CATastrophic</string>
-    <string name="baseUrl"></string>
+    <string name="baseUrl">https://api.thecatapi.com/</string>
 </resources>
